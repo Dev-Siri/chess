@@ -12,7 +12,7 @@ So I directly translated the Chess.js library to Go. Also provides function for 
 
 ## holy hell
 
-En passant still doesn't work properly (look at test "TestPositionsPgn") The captured pawn is still not taken off the board. (Wrong squared set to nil & I tried for a while but I don't know how to fix it.)
+En passant still doesn't work properly (look at test "TestPositionsPgn") The captured pawn is still not taken off the board. (Wrong square set to nil & I tried for a while but didn't see a change)
 
 ## Usage
 
